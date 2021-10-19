@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### website Name: Medicine Shop
+
+### website Netlify Link: https://frosty-wing-9ea884.netlify.app/
+
 In the project directory, you can run:
 
 ### `npm start`
