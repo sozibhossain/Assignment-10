@@ -1,0 +1,13 @@
+.titel-area{
+    text-align: center;
+    background-color: rgba(0, 255, 255, 0.247);
+    padding: 50px;
+}
+
+@media only screen and (max-width:688px) {
+    .product-area{
+        grid-template-columns: repeat(1, 1fr);
+        padding-left: 50px;
+    }
+    
+}

@@ -1,0 +1,18 @@
+.footer-are {
+    background-color: antiquewhite;
+    padding: 30px;
+}
+
+.footer-buttom{
+    text-align: center;
+    background-color: rgba(152, 201, 104, 0.521);
+    padding: 1px;
+}
+
+
+@media only screen and (max-width:688px) {
+    .footer-are {
+        display: inline-block;
+    }
+
+}

@@ -1,0 +1,11 @@
+.login-area{
+    background-color: azure;
+    padding: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.login{
+    border: 1px solid aquamarine;
+    background-color: rgb(91, 126, 80);
+    padding: 20px;
+}

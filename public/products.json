@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "price": 50.58,
+        "picture": "https://demo.fieldthemes.com/ps_medicine/home3/83-large_default/auctor-ex-id-accumsan.jpg",
+        "name": "Auctor ex id accumsan",
+        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611"
+    },
+    {
+        "id": 2,
+        "price": 23.30,
+        "picture": "https://demo.fieldthemes.com/ps_medicine/home3/82-large_default/aliquam-tincidunt-mauris.jpg",
+        "name": "Nam mollis porta facilisis",
+        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611"
+    },
+    {
+        "id": 3,
+        "price": 58.23,
+        "picture": "https://demo.fieldthemes.com/ps_medicine/home3/80-large_default/aliquam-tincidunt-mauris.jpg",
+        "name": "Fusce porttitor augue",
+        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611"
+    },
+    {
+        "id": 4,
+        "price": 52.39,
+        "picture": "https://demo.fieldthemes.com/ps_medicine/home3/81-large_default/quisque-at-orci-gravid-.jpg",
+        "name": "Quisque at orci gravid",
+        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611"
+    },
+    {
+        "id": 5,
+        "price": 45.62,
+        "picture": "https://demo.fieldthemes.com/ps_medicine/home3/79-large_default/integer-cursus-auctor-ex.jpg",
+        "name": "Integer cursus auctor ex",
+        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611"
+    },
+    {
+        "id": 6,
+        "price": 47.21,
+        "picture": "https://demo.fieldthemes.com/ps_medicine/home3/82-large_default/aliquam-tincidunt-mauris.jpg",
+        "name": "Aliquam tincidunt mauris",
+        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611"
+    },
+    {
+        "id": 7,
+        "price": 56.52,
+        "picture": "https://demo.fieldthemes.com/ps_medicine/home3/80-large_default/aliquam-tincidunt-mauris.jpg",
+        "name": "Nam mollis porta facilisis",
+        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611"
+    },
+    {
+        "id": 8,
+        "price": 26.96,
+        "picture": "https://demo.fieldthemes.com/ps_medicine/home3/85-large_default/nam-mollis-porta-facilisis.jpg",
+        "name": "Fusce porttitor augue",
+        "details": "576 Lott Avenue, Allentown, Wisconsin, 1611"
+    }
+]

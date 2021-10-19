@@ -1,0 +1,21 @@
+
+.client-say{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+
+.banner-aera img{
+    width: 1150px;
+}
+
+@media only screen and (max-width:688px) {
+    .client-say{
+        grid-template-columns: repeat(1, 1fr);
+        padding-left: 50px;
+    }
+    .banner-aera img{
+        width: 500px;
+    }
+    
+}
