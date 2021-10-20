@@ -1,6 +1,6 @@
 import React from 'react';
 import { Nav } from 'react-bootstrap';
-import img from '../../images/buttom img/payment.png'
+// import img from '../../images/buttom img/payment.png'
 import './Footer.css'
 
 const Footer = () => {
