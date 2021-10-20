@@ -11,7 +11,7 @@ const Blogs = (props) => {
                 <Card.Body>
                     <Card.Title><span>{details}</span></Card.Title>
                     <NavLink to={`/productdetails/${id}`}>
-                     <Button variant="primary">Add to Cart</Button>
+                     <Button variant="primary">LEARN MORE</Button>
                     </NavLink>
                 </Card.Body>
             </Card>

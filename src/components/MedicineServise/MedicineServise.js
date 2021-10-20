@@ -12,7 +12,7 @@ const MedicineServise = (props) => {
                 <Card.Body>
                     <Card.Title><span>{details}</span></Card.Title>
                     <NavLink to={`/productdetails/${id}`}>
-                     <Button variant="primary">Add to Cart</Button>
+                     <Button variant="primary">BUY NOW</Button>
                     </NavLink>
                 </Card.Body>
             </Card>
